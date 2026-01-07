@@ -1,0 +1,70 @@
+
+# Contributing Guide
+
+Thank you for considering contributing! We welcome improvements, bug fixes, and new ideas. Please follow these guidelines to keep things consistent.
+
+---
+
+## 🛠 How to Contribute
+
+1. **Fork the repository** and create your feature branch:
+  ```bash
+  git checkout -b feature/your-feature-name
+  ```
+2.  **Commit your changes** with clear messages:
+  ```bash
+  git commit -m "Add: short description of change"
+  ```
+3.  **Push to your branch** and open a Pull Request (PR):
+  ```bash
+  git push origin feature/your-feature-name
+  ```
+
+---
+
+## ✅ Pull Request Guidelines
+
+- Keep PRs focused and small.
+- Include a clear description of what the change does.
+- Reference related issues if applicable (e.g., `Fixes #123`).
+- Ensure all tests pass before submitting.
+
+---
+
+## 🧪 Testing
+
+- Run all tests locally before pushing:
+  ```bash
+  dotnet test
+  ```
+- Add tests for any new functionality.
+
+---
+
+## 📦 Code Style
+
+- Follow the existing coding conventions.
+- Use meaningful variable and method names.
+- Format code using:
+  ```bash
+  dotnet format
+  ```
+
+---
+
+## 💬 Communication
+
+- For major changes, open an issue first to discuss your idea.
+- Be respectful and constructive in all interactions.
+
+---
+
+## 📄 License
+
+By contributing, you agree that your contributions will be licensed under the same license as the project.
+
+---
+
+### Need Help?
+
+If you have questions, open an issue or reach out via the project’s discussion
